@@ -30,8 +30,3 @@ It demonstrates how to:
 
 - **HTML5** — for structure  
 - **CSS3 (inline style)** — for image styling and layout
-
----
-
-## 📂 Project Structure
-
