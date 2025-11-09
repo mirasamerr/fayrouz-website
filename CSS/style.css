@@ -1,0 +1,36 @@
+body{
+    background: papayawhip;
+    background-color: hsla(0, 0%, 87%, 0.804);
+}
+p{
+    font-size:medium;
+    font-style: italic;
+    color:crimson;
+    font-weight: bold;
+}
+
+
+.Intro{
+    color: blue;
+}
+
+.Body1{
+    color: darkred;
+}
+
+.Conclusion{
+    color: darkgreen;
+}
+
+h1,h2,h3,h4{
+    color: black;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: #da204b;
+    font-weight: bolder;
+}
+
+
+
