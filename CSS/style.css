@@ -1,6 +1,6 @@
 body{
-    background: papayawhip;
-    background-color: hsla(0, 0%, 87%, 0.804);
+    background: #fea7b6;
+    background-color: lab(87.97% 15.76 5.94 / 0.804);
 }
 p{
     font-size:medium;
@@ -28,8 +28,10 @@ h1,h2,h3,h4{
 
 .highlight{
     text-transform: uppercase;
-    background-color: #da204b;
+    background-color: hsl(346, 86%, 40%);
     font-weight: bolder;
+    color: rgb(255, 235, 205);
+    
 }
 
 
