@@ -1,6 +1,6 @@
 body{
     background: #fea7b6;
-    background-color: lab(87.97% 15.76 5.94 / 0.804);
+    background-color: oklch(97.331% 0.03812 192.7 / 0.914);
 }
 p{
     font-size:medium;
@@ -33,6 +33,5 @@ h1,h2,h3,h4{
     color: rgb(255, 235, 205);
     
 }
-
 
 
